@@ -1,5 +1,5 @@
 # Work on current project
-git clone <url of current repo>
+git clone https://github.com/tdarshit/cypresschatbot.git
 
 # Following tool set is needed to work on cypress
 
